@@ -1,0 +1,6 @@
+STM32CubeMX.FirmwareRepositoryPath=/Users/pasztoradam/STM32Cube/Repository/
+STM32CubeMX.UpdaterCheck=true
+STM32CubeMX.UpdaterCheckInterval=5
+STM32CubeMX.UpdaterDataRefresh=dataRefreshDataOnly
+STM32CubeMX.UpdaterDataRefreshInterfval=3
+eclipse.preferences.version=1
