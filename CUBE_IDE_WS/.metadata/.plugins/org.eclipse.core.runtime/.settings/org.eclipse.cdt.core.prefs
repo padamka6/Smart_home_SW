@@ -1,7 +1,0 @@
-eclipse.preferences.version=1
-indexer/indexerId=org.eclipse.cdt.core.nullindexer
-indexer/updatePolicy=2
-org.eclipse.cdt.core.showSourceFilesInBinaries=true
-org.eclipse.cdt.core.showSourceNotFoundEditor=all_time
-org.eclipse.cdt.core.taskPriorities=normal,normal,normal
-org.eclipse.cdt.core.taskTags=TODO,FIXME,XXX
