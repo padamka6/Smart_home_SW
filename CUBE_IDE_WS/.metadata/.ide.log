@@ -2233,3 +2233,1070 @@
 2019-10-06 22:41:04,282 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Pinout & Configuration
 2019-10-06 22:41:13,831 [INFO] BlockDiagram:1818 - stop enableDisableButtons
 2019-10-06 22:41:13,849 [INFO] Gpio:238 - dependency for GPIO []
+2019-10-08 08:33:59,013 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:40:37,465 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:40:41,177 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:40:41,179 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:40:41,180 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:40:41,181 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:40:41,182 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:40:41,182 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:40:41,320 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:40:41,680 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:41:22,556 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:41:22,616 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:41:22,617 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:41:22,617 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:41:22,618 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:41:22,618 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:41:22,618 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:41:22,654 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:41:22,700 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:41:55,406 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:42:00,166 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:42:00,212 [INFO] ApiDbMcu:444 - Load IP Config File for FREERTOS
+2019-10-13 15:42:00,456 [ERROR] RtosPanel:541 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2019-10-13 15:42:00,471 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:42:00,472 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:42:00,472 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:42:00,473 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:42:00,473 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:42:00,474 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:42:00,512 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:42:00,703 [ERROR] RtosPanel:541 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2019-10-13 15:42:00,713 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:42:16,322 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:42:16,325 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:43:09,883 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:43:09,885 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:43:09,886 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:43:09,886 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:43:10,174 [ERROR] RtosPanel:541 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2019-10-13 15:43:14,582 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:43:14,582 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:43:14,582 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:43:14,583 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:43:26,414 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:43:26,416 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:43:26,417 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:43:26,417 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:43:42,182 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:43:42,183 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:43:42,184 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:43:42,184 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:43:42,184 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:43:42,185 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:44:01,579 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:44:01,596 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:44:01,601 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:44:01,602 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:44:01,602 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:44:01,603 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:44:01,603 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:44:01,604 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:44:01,623 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:44:01,633 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:44:03,699 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:44:03,703 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:44:03,704 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:44:03,704 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:44:03,704 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:44:03,704 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:44:03,705 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:44:03,834 [ERROR] RtosPanel:541 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2019-10-13 15:44:03,845 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:44:03,932 [ERROR] RtosPanel:541 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2019-10-13 15:44:03,945 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:44:06,886 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:44:06,886 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:44:49,324 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:44:49,325 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:44:49,326 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:44:49,326 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:44:49,460 [ERROR] RtosPanel:541 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2019-10-13 15:44:53,363 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:44:53,365 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:44:53,366 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:44:53,366 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:45:46,903 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:45:46,904 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:45:46,904 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:45:46,905 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:45:46,905 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:45:46,905 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:46:01,714 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:46:01,715 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:46:01,715 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:46:01,715 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:46:01,715 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:46:01,715 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:46:17,260 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 931134960 Bytes (1073741824)
+2019-10-13 15:46:17,265 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:46:17,265 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:46:17,266 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:46:17,266 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:46:17,266 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:46:17,266 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:46:20,051 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 937426416 Bytes (1073741824)
+2019-10-13 15:46:20,053 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:46:20,054 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:46:20,054 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:46:20,055 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:46:20,055 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:46:20,055 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:46:55,601 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:46:55,602 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:46:55,602 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:46:55,602 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:46:55,602 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:46:55,602 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:46:56,900 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:46:56,900 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:46:56,900 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:46:56,901 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:46:56,901 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:46:56,901 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:47:00,340 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:47:00,340 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:47:00,340 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:47:00,340 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:47:00,340 [WARN] TasksAndQueuesTab:750 - 128 128
+2019-10-13 15:47:00,340 [WARN] TasksAndQueuesTab:766 - max value is: 3840.0
+2019-10-13 15:47:39,712 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:47:39,833 [ERROR] RtosPanel:541 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2019-10-13 15:47:40,002 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:47:40,138 [ERROR] RtosPanel:541 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2019-10-13 15:49:15,273 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 743285136 Bytes (1073741824)
+2019-10-13 15:49:15,276 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:49:15,277 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:49:15,278 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:49:15,279 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:49:15,279 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:49:15,280 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:49:46,477 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: FREERTOS
+2019-10-13 15:49:46,478 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: SYS
+2019-10-13 15:49:46,478 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: RTC
+2019-10-13 15:49:46,478 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: NVIC
+2019-10-13 15:49:46,479 [INFO] CodeGenerator:583 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db/
+2019-10-13 15:49:46,813 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/license.tmp_save
+2019-10-13 15:49:46,923 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/license.tmp
+2019-10-13 15:49:47,050 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/gpio.tmp_save
+2019-10-13 15:49:47,188 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/gpio.tmp
+2019-10-13 15:49:47,450 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-13 15:49:47,832 [INFO] Middleware:1071 - No code input for Bsp Dependency
+2019-10-13 15:49:47,842 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_inc.tmp_save
+2019-10-13 15:49:47,944 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_inc.tmp
+2019-10-13 15:49:47,952 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_vars.tmp_save
+2019-10-13 15:49:48,217 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_vars.tmp
+2019-10-13 15:49:48,235 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_pfp.tmp_save
+2019-10-13 15:49:48,418 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_pfp.tmp
+2019-10-13 15:49:48,433 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_HalInit.tmp_save
+2019-10-13 15:49:48,639 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_HalInit.tmp
+2019-10-13 15:49:48,646 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_start.tmp_save
+2019-10-13 15:49:48,779 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_start.tmp
+2019-10-13 15:49:48,787 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_threads.tmp_save
+2019-10-13 15:49:49,057 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_threads.tmp
+2019-10-13 15:49:49,066 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_user_threads.tmp_save
+2019-10-13 15:49:49,173 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_user_threads.tmp
+2019-10-13 15:49:49,180 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/FreeRTOSConfig.h_save
+2019-10-13 15:49:49,288 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/FreeRTOSConfig.h
+2019-10-13 15:49:49,295 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/freertos.c_save
+2019-10-13 15:49:49,409 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/freertos.c
+2019-10-13 15:49:49,409 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-13 15:49:49,410 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for RTC
+2019-10-13 15:49:49,410 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-13 15:49:49,411 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-13 15:49:49,412 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-10-13 15:49:49,412 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-13 15:49:49,413 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-10-13 15:49:49,415 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-13 15:49:49,425 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_it.c_save
+2019-10-13 15:49:49,652 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_it.c
+2019-10-13 15:49:49,679 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_it.h_save
+2019-10-13 15:49:49,848 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_it.h
+2019-10-13 15:49:49,864 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_msp.c_save
+2019-10-13 15:49:50,172 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_msp.c
+2019-10-13 15:49:50,540 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/system.tmp_save
+2019-10-13 15:49:50,861 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/system.tmp
+2019-10-13 15:49:50,873 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_hal_conf.h_save
+2019-10-13 15:49:51,275 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_hal_conf.h
+2019-10-13 15:49:51,316 [WARN] IPConfigManager:2562 - IP not found : gpio
+2019-10-13 15:49:51,317 [WARN] CodeGenerator:2617 - IP not found : gpio
+2019-10-13 15:49:51,329 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/main.h_save
+2019-10-13 15:49:51,596 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/main.h
+2019-10-13 15:49:51,607 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/main.c_save
+2019-10-13 15:49:52,042 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/main.c
+2019-10-13 15:49:53,243 [INFO] ProjectBuilder:1570 - Time for Copy HAL[1] : 346mS.
+2019-10-13 15:49:53,249 [INFO] ProjectBuilder:2138 - Project Generator version: 3.4.0
+2019-10-13 15:49:53,854 [INFO] ConfigFileManager:879 - The Die is : DIE421
+2019-10-13 15:49:53,857 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M4
+2019-10-13 15:49:54,084 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="128"
+2019-10-13 15:49:54,084 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="512"
+2019-10-13 15:49:54,626 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-10-13 15:49:54,627 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============update
+2019-10-13 15:49:59,353 [INFO] ProjectBuilder:2232 - Time for Generating toolchain IDE Files: 6104mS.
+2019-10-13 15:49:59,355 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 1mS.
+2019-10-13 15:49:59,360 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-10-13 15:50:47,511 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:50:50,750 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:50:50,751 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:50:50,751 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:50:50,751 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:50:50,752 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:50:50,753 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:50:50,771 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:50:50,783 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:50:59,093 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:50:59,107 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:50:59,108 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:50:59,109 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:50:59,109 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:50:59,110 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:50:59,110 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:50:59,137 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:50:59,222 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-13 15:51:11,290 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 410168872 Bytes (1073741824)
+2019-10-13 15:51:11,292 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:51:11,293 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:51:11,294 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:51:11,295 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:51:11,403 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-13 15:51:11,403 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-13 15:51:11,684 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: FREERTOS
+2019-10-13 15:51:11,698 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: SYS
+2019-10-13 15:51:11,698 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: RTC
+2019-10-13 15:51:11,699 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: NVIC
+2019-10-13 15:51:11,699 [INFO] CodeGenerator:583 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db/
+2019-10-13 15:51:13,051 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/license.tmp_save
+2019-10-13 15:51:13,132 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/license.tmp
+2019-10-13 15:51:13,197 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/gpio.tmp_save
+2019-10-13 15:51:13,301 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/gpio.tmp
+2019-10-13 15:51:13,576 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-13 15:51:13,619 [INFO] Middleware:1071 - No code input for Bsp Dependency
+2019-10-13 15:51:13,633 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_inc.tmp_save
+2019-10-13 15:51:13,761 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_inc.tmp
+2019-10-13 15:51:13,769 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_vars.tmp_save
+2019-10-13 15:51:13,924 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_vars.tmp
+2019-10-13 15:51:13,931 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_pfp.tmp_save
+2019-10-13 15:51:14,052 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_pfp.tmp
+2019-10-13 15:51:14,059 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_HalInit.tmp_save
+2019-10-13 15:51:14,168 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_HalInit.tmp
+2019-10-13 15:51:14,178 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_start.tmp_save
+2019-10-13 15:51:14,308 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_start.tmp
+2019-10-13 15:51:14,314 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_threads.tmp_save
+2019-10-13 15:51:14,434 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_threads.tmp
+2019-10-13 15:51:14,440 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_user_threads.tmp_save
+2019-10-13 15:51:14,539 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_user_threads.tmp
+2019-10-13 15:51:14,548 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/FreeRTOSConfig.h_save
+2019-10-13 15:51:14,663 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/FreeRTOSConfig.h
+2019-10-13 15:51:14,671 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/freertos.c_save
+2019-10-13 15:51:14,837 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/freertos.c
+2019-10-13 15:51:14,839 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-13 15:51:14,840 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for RTC
+2019-10-13 15:51:14,841 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-13 15:51:14,844 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-13 15:51:14,844 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-10-13 15:51:14,845 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-13 15:51:14,866 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-10-13 15:51:14,866 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-13 15:51:14,874 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_it.c_save
+2019-10-13 15:51:15,015 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_it.c
+2019-10-13 15:51:15,021 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_it.h_save
+2019-10-13 15:51:15,149 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_it.h
+2019-10-13 15:51:15,180 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_msp.c_save
+2019-10-13 15:51:15,385 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_msp.c
+2019-10-13 15:51:15,391 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/system.tmp_save
+2019-10-13 15:51:15,484 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/system.tmp
+2019-10-13 15:51:15,489 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_timebase_tim.c_save
+2019-10-13 15:51:15,706 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_timebase_tim.c
+2019-10-13 15:51:15,739 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_hal_conf.h_save
+2019-10-13 15:51:15,831 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_hal_conf.h
+2019-10-13 15:51:15,848 [WARN] IPConfigManager:2562 - IP not found : gpio
+2019-10-13 15:51:15,849 [WARN] CodeGenerator:2617 - IP not found : gpio
+2019-10-13 15:51:15,855 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/main.h_save
+2019-10-13 15:51:15,995 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/main.h
+2019-10-13 15:51:16,009 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/main.c_save
+2019-10-13 15:51:16,533 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/main.c
+2019-10-13 15:51:19,433 [INFO] ProjectBuilder:1570 - Time for Copy HAL[1] : 281mS.
+2019-10-13 15:51:19,437 [INFO] ProjectBuilder:2138 - Project Generator version: 3.4.0
+2019-10-13 15:51:20,818 [INFO] ConfigFileManager:879 - The Die is : DIE421
+2019-10-13 15:51:20,820 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M4
+2019-10-13 15:51:21,275 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="128"
+2019-10-13 15:51:21,275 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="512"
+2019-10-13 15:51:22,267 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-10-13 15:51:22,268 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============update
+2019-10-13 15:51:24,629 [INFO] ProjectBuilder:2232 - Time for Generating toolchain IDE Files: 5192mS.
+2019-10-13 15:51:24,644 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 15mS.
+2019-10-13 15:51:24,648 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-10-13 19:21:30,450 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-18 22:31:14,527 [INFO] Activator:176 - 
+
+
+2019-10-18 22:31:14,535 [INFO] Activator:177 - !SESSION log4j initialized
+2019-10-18 22:31:21,225 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2019-10-19 00:03:01,158 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903
+2019-10-19 00:03:01,191 [INFO] DbMcusXml:68 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//mcu/
+2019-10-19 00:03:01,199 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/boardmanager/
+2019-10-19 00:03:01,200 [INFO] DbMcus:264 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/images/
+2019-10-19 00:03:01,200 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/images/
+2019-10-19 00:03:01,205 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/mcu/
+2019-10-19 00:03:01,220 [INFO] DbMcusAds:72 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:01,222 [INFO] DbMcusDocs:92 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:01,226 [INFO] DbMcusJson:59 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:01,228 [INFO] DbBoardsDocs:84 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:01,231 [INFO] DbBoardsJson:51 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:01,662 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/cs/
+2019-10-19 00:03:01,869 [INFO] RulesReader:52 - Compatibility file has been processed (156 Rules)
+2019-10-19 00:03:02,080 [INFO] MicroXplorer:521 - Detected Java Version = 1.8.0_202
+2019-10-19 00:03:02,081 [INFO] DbMcusXml:68 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//mcu/
+2019-10-19 00:03:02,081 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/boardmanager/
+2019-10-19 00:03:02,083 [INFO] DbMcus:264 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/images/
+2019-10-19 00:03:02,083 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/images/
+2019-10-19 00:03:02,083 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/mcu/
+2019-10-19 00:03:02,084 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,084 [INFO] DbMcusAds:72 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:02,084 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,085 [INFO] DbMcusDocs:92 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:02,085 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,085 [INFO] DbMcusJson:59 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:02,086 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,086 [INFO] DbBoardsDocs:84 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:02,086 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,086 [INFO] DbBoardsJson:51 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:02,087 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,087 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,087 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/cs/
+2019-10-19 00:03:02,265 [INFO] MainPanel:211 - HeapMemory: 268435456
+2019-10-19 00:03:02,554 [INFO] DbMcusXml:68 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//mcu/
+2019-10-19 00:03:02,555 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/boardmanager/
+2019-10-19 00:03:02,555 [INFO] DbMcus:264 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/images/
+2019-10-19 00:03:02,555 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/images/
+2019-10-19 00:03:02,555 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/mcu/
+2019-10-19 00:03:02,557 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,558 [INFO] DbMcusAds:72 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:02,559 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,560 [INFO] DbMcusDocs:92 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:02,560 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,560 [INFO] DbMcusJson:59 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:02,561 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,561 [INFO] DbBoardsDocs:84 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:02,561 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,562 [INFO] DbBoardsJson:51 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 00:03:02,562 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,562 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 00:03:02,563 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/cs/
+2019-10-19 00:03:02,596 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903
+2019-10-19 00:03:02,600 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2019-10-19 00:03:02,604 [INFO] PluginManage:292 - Check plugin analytics
+2019-10-19 00:03:02,625 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2019-10-19 00:03:02,625 [INFO] PluginManage:292 - Check plugin clock
+2019-10-19 00:03:02,650 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2019-10-19 00:03:02,651 [INFO] PluginManage:292 - Check plugin ddr
+2019-10-19 00:03:02,659 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2019-10-19 00:03:02,660 [INFO] PluginManage:292 - Check plugin filemanager
+2019-10-19 00:03:02,924 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2019-10-19 00:03:02,925 [INFO] PluginManage:292 - Check plugin ipmanager
+2019-10-19 00:03:02,938 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2019-10-19 00:03:02,939 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2019-10-19 00:03:02,958 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2019-10-19 00:03:02,959 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2019-10-19 00:03:02,998 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2019-10-19 00:03:02,999 [INFO] PluginManage:292 - Check plugin power
+2019-10-19 00:03:03,020 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2019-10-19 00:03:03,021 [INFO] PluginManage:292 - Check plugin projectmanager
+2019-10-19 00:03:03,042 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2019-10-19 00:03:03,043 [INFO] PluginManage:292 - Check plugin thirdparty
+2019-10-19 00:03:03,132 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (/Users/pasztoradam/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 39 ms. number of Sw pack : 5
+2019-10-19 00:03:03,158 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2019-10-19 00:03:03,159 [INFO] PluginManage:292 - Check plugin tools
+2019-10-19 00:03:03,164 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2019-10-19 00:03:03,165 [INFO] PluginManage:292 - Check plugin updater
+2019-10-19 00:03:03,194 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2019-10-19 00:03:03,195 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2019-10-19 00:03:05,366 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-10-19 00:03:05,513 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,514 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2019-10-19 00:03:05,530 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,531 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2019-10-19 00:03:05,546 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,547 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2019-10-19 00:03:05,551 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,552 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2019-10-19 00:03:05,575 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,575 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2019-10-19 00:03:05,579 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,579 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2019-10-19 00:03:05,584 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,585 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2019-10-19 00:03:05,591 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,591 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2019-10-19 00:03:05,595 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,596 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2019-10-19 00:03:05,599 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,600 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2019-10-19 00:03:05,603 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,603 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2019-10-19 00:03:05,607 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,608 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2019-10-19 00:03:05,612 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,613 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2019-10-19 00:03:05,618 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,619 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2019-10-19 00:03:05,623 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,624 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2019-10-19 00:03:05,631 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,631 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2019-10-19 00:03:05,635 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,636 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2019-10-19 00:03:05,641 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,641 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2019-10-19 00:03:05,653 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,653 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2019-10-19 00:03:05,657 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,658 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2019-10-19 00:03:05,663 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,664 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2019-10-19 00:03:05,671 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,672 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2019-10-19 00:03:05,692 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,700 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2019-10-19 00:03:05,709 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,710 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2019-10-19 00:03:05,715 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,716 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2019-10-19 00:03:05,720 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,721 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2019-10-19 00:03:05,737 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,737 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2019-10-19 00:03:05,742 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,742 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2019-10-19 00:03:05,756 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,756 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2019-10-19 00:03:05,767 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,767 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2019-10-19 00:03:05,774 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,775 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2019-10-19 00:03:05,779 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,779 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2019-10-19 00:03:05,785 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,786 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2019-10-19 00:03:05,794 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,795 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2019-10-19 00:03:05,803 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,804 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2019-10-19 00:03:05,813 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,813 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2019-10-19 00:03:05,821 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:05,821 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2019-10-19 00:03:06,018 [INFO] BoardConnectionPanel:217 - [DDR PANEL] osNameString: NotDefined
+2019-10-19 00:03:06,553 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-10-19 00:03:07,419 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-10-19 00:03:07,443 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-10-19 00:03:07,444 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-10-19 00:03:07,449 [INFO] MainDdrPanel:82 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.macos64_1.0.0.201904021149/tools/bin
+2019-10-19 00:03:07,453 [INFO] Updater:860 - Updater Version found : 5.3.0
+2019-10-19 00:03:07,484 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903
+2019-10-19 00:03:08,073 [INFO] MainUpdater:2040 - connection check result : 10
+2019-10-19 00:03:08,078 [INFO] MainUpdater:229 - Updater Check For Update Now.
+2019-10-19 00:03:08,079 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-10-19 00:03:08,126 [INFO] CheckServerUpdateThread:121 - End of CheckServer Thread
+2019-10-19 00:03:08,283 [INFO] MainUpdater:2040 - connection check result : 10
+2019-10-19 00:03:08,285 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2019-10-19 00:03:09,088 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-10-19 00:03:09,089 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-10-19 00:03:09,094 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-10-19 00:03:09,096 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 168561192 Bytes (268435456)
+2019-10-19 00:03:09,097 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-10-19 00:03:09,098 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-10-19 00:03:09,098 [INFO] OpenFileManager:269 - Change cursor
+2019-10-19 00:03:09,193 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (/Users/pasztoradam/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2019-10-19 00:03:09,226 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (/Users/pasztoradam/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 10 ms. number of Sw pack : 5
+2019-10-19 00:03:09,226 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (/Users/pasztoradam/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2019-10-19 00:03:09,239 [INFO] IntegrityCheckThread:97 - End integrity checks thread
+2019-10-19 00:03:14,492 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 167714880 Bytes (268435456)
+2019-10-19 00:03:14,507 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (/Users/pasztoradam/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 3 ms. number of Sw pack : 5
+2019-10-19 00:03:14,616 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2019-10-19 00:03:14,616 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.2.0
+2019-10-19 00:03:14,616 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 4.0.0
+2019-10-19 00:03:14,616 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.4.1
+2019-10-19 00:03:14,616 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 3.0.0
+2019-10-19 00:03:15,298 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-10-19 00:03:15,305 [INFO] PinOutPanel:1367 - setPackage(STM32F446RETx,LQFP64)
+2019-10-19 00:03:16,761 [INFO] UtilMem:74 - Before build in PCC Used Memory: 148495760 Bytes (268435456)
+2019-10-19 00:03:17,504 [INFO] SharedServices:71 - Folder for power plug-in: /Users/pasztoradam/.stm32cubemx/plugins/power
+2019-10-19 00:03:17,506 [INFO] UtilMem:74 - After build in PCC Used Memory: 164746648 Bytes (268435456)
+2019-10-19 00:03:17,524 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 00:03:17,525 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,526 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,526 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,526 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,529 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,530 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,530 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,531 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,531 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,532 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,532 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,533 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,533 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,533 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,534 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,534 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,535 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,535 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,536 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,537 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,537 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,538 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,538 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,539 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,539 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,540 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,540 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,540 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,541 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,541 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,541 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,542 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,542 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,543 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,543 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,543 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,544 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,544 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,546 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,546 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,547 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,547 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,549 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,550 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,551 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,551 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,551 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,552 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,552 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,552 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,553 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,554 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,555 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,555 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,557 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,557 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,558 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,559 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,562 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,562 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 00:03:17,976 [INFO] ApiDbMcu:444 - Load IP Config File for FREERTOS
+2019-10-19 00:03:17,987 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 00:03:18,034 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2019-10-19 00:03:18,047 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,049 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 00:03:18,259 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,260 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,261 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,262 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 00:03:18,264 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 00:03:18,267 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,277 [INFO] OpenFileManager:289 - Restore cursor
+2019-10-19 00:03:18,284 [INFO] DbMcusXml:106 - Load MCU database from /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//mcu/families.xml
+2019-10-19 00:03:18,293 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,293 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,297 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,298 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 00:03:18,299 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 00:03:18,301 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,680 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 00:03:18,708 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,714 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,720 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,721 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 00:03:18,721 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 00:03:18,722 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 00:03:18,801 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 00:03:20,101 [INFO] DbMcusJson:87 - JSON generation date=Mon Sep 23 11:35:45 CEST 2019 (1569231345)
+2019-10-19 00:03:22,332 [INFO] DbMcus:193 - Found 1496 MCUs (1455 are supported by CubeMX, 1455 are visible in CubeMX)
+2019-10-19 00:03:22,333 [INFO] ApiDb:147 - User favorites file not found: /Users/pasztoradam/.stm32cubemx/favorites.mcus.txt
+2019-10-19 00:03:22,333 [INFO] DbMcus:205 - Set 0 / 0 favorites MCUs
+2019-10-19 00:11:45,006 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 01:04:22,615 [INFO] Activator:176 - 
+
+
+2019-10-19 01:04:22,627 [INFO] Activator:177 - !SESSION log4j initialized
+2019-10-19 01:04:35,822 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2019-10-19 16:36:13,215 [INFO] Activator:176 - 
+
+
+2019-10-19 16:36:13,233 [INFO] Activator:177 - !SESSION log4j initialized
+2019-10-19 16:36:19,694 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2019-10-19 16:38:13,355 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903
+2019-10-19 16:38:13,393 [INFO] DbMcusXml:68 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//mcu/
+2019-10-19 16:38:13,406 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/boardmanager/
+2019-10-19 16:38:13,407 [INFO] DbMcus:264 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/images/
+2019-10-19 16:38:13,407 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/images/
+2019-10-19 16:38:13,412 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/mcu/
+2019-10-19 16:38:13,428 [INFO] DbMcusAds:72 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:13,430 [INFO] DbMcusDocs:92 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:13,432 [INFO] DbMcusJson:59 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:13,433 [INFO] DbBoardsDocs:84 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:13,435 [INFO] DbBoardsJson:51 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:13,519 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/cs/
+2019-10-19 16:38:13,709 [INFO] RulesReader:52 - Compatibility file has been processed (156 Rules)
+2019-10-19 16:38:13,888 [INFO] MicroXplorer:521 - Detected Java Version = 1.8.0_202
+2019-10-19 16:38:13,889 [INFO] DbMcusXml:68 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//mcu/
+2019-10-19 16:38:13,890 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/boardmanager/
+2019-10-19 16:38:13,892 [INFO] DbMcus:264 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/images/
+2019-10-19 16:38:13,892 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/images/
+2019-10-19 16:38:13,893 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/mcu/
+2019-10-19 16:38:13,893 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:13,894 [INFO] DbMcusAds:72 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:13,894 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:13,895 [INFO] DbMcusDocs:92 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:13,895 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:13,896 [INFO] DbMcusJson:59 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:13,897 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:13,897 [INFO] DbBoardsDocs:84 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:13,898 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:13,899 [INFO] DbBoardsJson:51 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:13,899 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:13,900 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:13,901 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/cs/
+2019-10-19 16:38:14,064 [INFO] MainPanel:211 - HeapMemory: 289406976
+2019-10-19 16:38:14,305 [INFO] DbMcusXml:68 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//mcu/
+2019-10-19 16:38:14,306 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/boardmanager/
+2019-10-19 16:38:14,307 [INFO] DbMcus:264 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/images/
+2019-10-19 16:38:14,307 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/images/
+2019-10-19 16:38:14,308 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//plugins/mcufinder/mcu/
+2019-10-19 16:38:14,310 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:14,310 [INFO] DbMcusAds:72 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:14,311 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:14,311 [INFO] DbMcusDocs:92 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:14,312 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:14,312 [INFO] DbMcusJson:59 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:14,313 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:14,313 [INFO] DbBoardsDocs:84 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:14,313 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:14,313 [INFO] DbBoardsJson:51 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/
+2019-10-19 16:38:14,314 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:14,314 [WARN] DbFile:31 - Overriding database path with different value: /Users/pasztoradam/.stmcufinder/plugins/mcufinder/ => /Users/pasztoradam/.stmcufinder/plugins/mcufinder
+2019-10-19 16:38:14,314 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/pasztoradam/.stmcufinder/plugins/mcufinder//mcu/cs/
+2019-10-19 16:38:14,349 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903
+2019-10-19 16:38:14,352 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2019-10-19 16:38:14,357 [INFO] PluginManage:292 - Check plugin analytics
+2019-10-19 16:38:14,374 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2019-10-19 16:38:14,375 [INFO] PluginManage:292 - Check plugin clock
+2019-10-19 16:38:14,398 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2019-10-19 16:38:14,398 [INFO] PluginManage:292 - Check plugin ddr
+2019-10-19 16:38:14,409 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2019-10-19 16:38:14,410 [INFO] PluginManage:292 - Check plugin filemanager
+2019-10-19 16:38:14,659 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2019-10-19 16:38:14,659 [INFO] PluginManage:292 - Check plugin ipmanager
+2019-10-19 16:38:14,671 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2019-10-19 16:38:14,671 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2019-10-19 16:38:14,690 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2019-10-19 16:38:14,690 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2019-10-19 16:38:14,728 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2019-10-19 16:38:14,729 [INFO] PluginManage:292 - Check plugin power
+2019-10-19 16:38:14,749 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2019-10-19 16:38:14,749 [INFO] PluginManage:292 - Check plugin projectmanager
+2019-10-19 16:38:14,768 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2019-10-19 16:38:14,768 [INFO] PluginManage:292 - Check plugin thirdparty
+2019-10-19 16:38:14,846 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (/Users/pasztoradam/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 32 ms. number of Sw pack : 5
+2019-10-19 16:38:14,867 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2019-10-19 16:38:14,868 [INFO] PluginManage:292 - Check plugin tools
+2019-10-19 16:38:14,873 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2019-10-19 16:38:14,873 [INFO] PluginManage:292 - Check plugin updater
+2019-10-19 16:38:14,898 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2019-10-19 16:38:14,899 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2019-10-19 16:38:16,697 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-10-19 16:38:16,847 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,849 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2019-10-19 16:38:16,868 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,869 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2019-10-19 16:38:16,888 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,889 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2019-10-19 16:38:16,894 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,895 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2019-10-19 16:38:16,922 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,923 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2019-10-19 16:38:16,927 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,928 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2019-10-19 16:38:16,934 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,935 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2019-10-19 16:38:16,942 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,943 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2019-10-19 16:38:16,947 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,947 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2019-10-19 16:38:16,951 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,951 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2019-10-19 16:38:16,955 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,955 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2019-10-19 16:38:16,958 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,959 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2019-10-19 16:38:16,963 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,964 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2019-10-19 16:38:16,968 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,969 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2019-10-19 16:38:16,973 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,974 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2019-10-19 16:38:16,980 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,981 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2019-10-19 16:38:16,985 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,985 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2019-10-19 16:38:16,990 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:16,991 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2019-10-19 16:38:17,002 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,003 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2019-10-19 16:38:17,006 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,006 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2019-10-19 16:38:17,010 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,011 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2019-10-19 16:38:17,015 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,015 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2019-10-19 16:38:17,033 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,042 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2019-10-19 16:38:17,051 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,051 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2019-10-19 16:38:17,058 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,059 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2019-10-19 16:38:17,063 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,063 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2019-10-19 16:38:17,075 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,076 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2019-10-19 16:38:17,079 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,079 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2019-10-19 16:38:17,090 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,090 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2019-10-19 16:38:17,101 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,101 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2019-10-19 16:38:17,109 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,110 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2019-10-19 16:38:17,113 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,114 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2019-10-19 16:38:17,118 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,118 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2019-10-19 16:38:17,125 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,125 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2019-10-19 16:38:17,133 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,134 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2019-10-19 16:38:17,143 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,143 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2019-10-19 16:38:17,150 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:17,151 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2019-10-19 16:38:17,316 [INFO] BoardConnectionPanel:217 - [DDR PANEL] osNameString: NotDefined
+2019-10-19 16:38:17,766 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-10-19 16:38:17,864 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-10-19 16:38:17,866 [ERROR] IntegrityCheckThread:230 - Cannot obtain thirdParties list 21
+2019-10-19 16:38:17,866 [ERROR] IntegrityCheckThread:99 - Unexpected exception IntegrityCheckThread Thread: Updater error
+2019-10-19 16:38:17,868 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (/Users/pasztoradam/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2019-10-19 16:38:18,483 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-10-19 16:38:18,503 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-10-19 16:38:18,505 [FATAL] Updater:277 - Updater called before beeing initialized
+2019-10-19 16:38:18,510 [INFO] MainDdrPanel:82 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.macos64_1.0.0.201904021149/tools/bin
+2019-10-19 16:38:18,514 [INFO] Updater:860 - Updater Version found : 5.3.0
+2019-10-19 16:38:18,549 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903
+2019-10-19 16:38:19,045 [INFO] MainUpdater:2040 - connection check result : 10
+2019-10-19 16:38:19,048 [INFO] MainUpdater:229 - Updater Check For Update Now.
+2019-10-19 16:38:19,048 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-10-19 16:38:19,082 [INFO] CheckServerUpdateThread:121 - End of CheckServer Thread
+2019-10-19 16:38:19,252 [INFO] MainUpdater:2040 - connection check result : 10
+2019-10-19 16:38:19,254 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2019-10-19 16:38:19,883 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-10-19 16:38:19,883 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-10-19 16:38:19,888 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-10-19 16:38:19,889 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 148822112 Bytes (289406976)
+2019-10-19 16:38:19,890 [INFO] MicroXplorer:371 - Change Database Path : 
+2019-10-19 16:38:19,890 [INFO] MicroXplorer:401 - Change Database Version : DB.5.0.30
+2019-10-19 16:38:19,891 [INFO] OpenFileManager:269 - Change cursor
+2019-10-19 16:38:23,504 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 187942464 Bytes (289406976)
+2019-10-19 16:38:23,515 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (/Users/pasztoradam/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 4 ms. number of Sw pack : 5
+2019-10-19 16:38:23,615 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2019-10-19 16:38:23,615 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 6.2.0
+2019-10-19 16:38:23,615 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 4.0.0
+2019-10-19 16:38:23,615 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.4.1
+2019-10-19 16:38:23,616 [INFO] ThirdParty:912 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 3.0.0
+2019-10-19 16:38:24,115 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2019-10-19 16:38:24,118 [INFO] PinOutPanel:1367 - setPackage(STM32F446RETx,LQFP64)
+2019-10-19 16:38:24,812 [INFO] UtilMem:74 - Before build in PCC Used Memory: 179495320 Bytes (289406976)
+2019-10-19 16:38:25,327 [INFO] SharedServices:71 - Folder for power plug-in: /Users/pasztoradam/.stm32cubemx/plugins/power
+2019-10-19 16:38:25,329 [INFO] UtilMem:74 - After build in PCC Used Memory: 195223960 Bytes (289406976)
+2019-10-19 16:38:25,341 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 16:38:25,342 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,343 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,343 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,343 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,344 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,344 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,344 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,345 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,345 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,346 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,346 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,346 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,347 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,347 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,347 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,348 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,348 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,349 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,349 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,350 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,350 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,351 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,351 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,352 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,352 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,352 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,353 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,353 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,354 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,354 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,355 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,355 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,356 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,356 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,357 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,357 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,357 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,358 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,358 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,358 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,359 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,359 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,359 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,360 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,360 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,360 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,361 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,361 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,361 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,362 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,362 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,363 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,363 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,364 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,364 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,364 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,365 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,366 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,366 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,367 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2019-10-19 16:38:25,590 [INFO] ApiDbMcu:444 - Load IP Config File for FREERTOS
+2019-10-19 16:38:25,601 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 16:38:25,617 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2019-10-19 16:38:25,623 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:25,624 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 16:38:25,744 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:25,745 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:25,746 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:25,747 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 16:38:25,748 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 16:38:25,748 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:25,761 [INFO] OpenFileManager:289 - Restore cursor
+2019-10-19 16:38:25,766 [INFO] DbMcusXml:106 - Load MCU database from /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db//mcu/families.xml
+2019-10-19 16:38:25,773 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:25,774 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:25,775 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:25,775 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 16:38:25,776 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 16:38:25,777 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:26,039 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 16:38:26,057 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:26,059 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:26,060 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:26,060 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 16:38:26,061 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 16:38:26,062 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 16:38:26,160 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 16:38:27,751 [INFO] DbMcusJson:87 - JSON generation date=Mon Sep 23 11:35:45 CEST 2019 (1569231345)
+2019-10-19 16:38:29,454 [INFO] DbMcus:193 - Found 1496 MCUs (1455 are supported by CubeMX, 1455 are visible in CubeMX)
+2019-10-19 16:38:29,455 [INFO] ApiDb:147 - User favorites file not found: /Users/pasztoradam/.stm32cubemx/favorites.mcus.txt
+2019-10-19 16:38:29,455 [INFO] DbMcus:205 - Set 0 / 0 favorites MCUs
+2019-10-19 17:00:44,978 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 17:01:00,774 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:01:00,778 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:01:00,779 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:01:00,780 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 17:01:00,781 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 17:01:00,781 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:01:00,899 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 17:01:01,157 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 17:02:02,556 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 193376376 Bytes (311427072)
+2019-10-19 17:02:02,558 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:02:02,559 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:02:02,560 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:02:02,560 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 17:02:02,561 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 17:02:02,562 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:02:02,583 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 197044352 Bytes (311427072)
+2019-10-19 17:02:02,586 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:02:02,587 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:02:02,588 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:02:02,589 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 17:02:02,590 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 17:02:02,591 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:02:03,409 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: FREERTOS
+2019-10-19 17:02:03,409 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: SYS
+2019-10-19 17:02:03,410 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: RTC
+2019-10-19 17:02:03,410 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: NVIC
+2019-10-19 17:02:03,410 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USART
+2019-10-19 17:02:03,411 [INFO] CodeGenerator:583 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db/
+2019-10-19 17:02:04,195 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/license.tmp_save
+2019-10-19 17:02:04,977 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/license.tmp
+2019-10-19 17:02:05,324 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/gpio.tmp_save
+2019-10-19 17:02:05,643 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/gpio.tmp
+2019-10-19 17:02:06,102 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-19 17:02:06,128 [INFO] Middleware:1071 - No code input for Bsp Dependency
+2019-10-19 17:02:06,140 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_inc.tmp_save
+2019-10-19 17:02:06,277 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_inc.tmp
+2019-10-19 17:02:06,285 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_vars.tmp_save
+2019-10-19 17:02:06,431 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_vars.tmp
+2019-10-19 17:02:06,438 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_pfp.tmp_save
+2019-10-19 17:02:06,635 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_pfp.tmp
+2019-10-19 17:02:06,642 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_HalInit.tmp_save
+2019-10-19 17:02:06,798 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_HalInit.tmp
+2019-10-19 17:02:06,812 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_start.tmp_save
+2019-10-19 17:02:06,937 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_start.tmp
+2019-10-19 17:02:06,944 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_threads.tmp_save
+2019-10-19 17:02:07,104 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_threads.tmp
+2019-10-19 17:02:07,114 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_user_threads.tmp_save
+2019-10-19 17:02:07,301 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_user_threads.tmp
+2019-10-19 17:02:07,314 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/FreeRTOSConfig.h_save
+2019-10-19 17:02:07,534 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/FreeRTOSConfig.h
+2019-10-19 17:02:07,542 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/freertos.c_save
+2019-10-19 17:02:07,849 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/freertos.c
+2019-10-19 17:02:07,851 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-19 17:02:07,852 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for RTC
+2019-10-19 17:02:07,853 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-19 17:02:07,855 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-19 17:02:07,855 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-10-19 17:02:07,856 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-19 17:02:07,857 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-19 17:02:07,858 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2019-10-19 17:02:07,859 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-19 17:02:07,861 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-10-19 17:02:07,862 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-19 17:02:07,872 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_it.c_save
+2019-10-19 17:02:08,375 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_it.c
+2019-10-19 17:02:08,386 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_it.h_save
+2019-10-19 17:02:08,548 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_it.h
+2019-10-19 17:02:08,565 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_msp.c_save
+2019-10-19 17:02:09,012 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_msp.c
+2019-10-19 17:02:09,088 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/system.tmp_save
+2019-10-19 17:02:09,236 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/system.tmp
+2019-10-19 17:02:09,248 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_timebase_tim.c_save
+2019-10-19 17:02:09,408 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_timebase_tim.c
+2019-10-19 17:02:09,425 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_hal_conf.h_save
+2019-10-19 17:02:09,620 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_hal_conf.h
+2019-10-19 17:02:09,667 [WARN] IPConfigManager:2562 - IP not found : gpio
+2019-10-19 17:02:09,669 [WARN] CodeGenerator:2617 - IP not found : gpio
+2019-10-19 17:02:09,686 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/main.h_save
+2019-10-19 17:02:09,878 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/main.h
+2019-10-19 17:02:09,897 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/main.c_save
+2019-10-19 17:02:10,391 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/main.c
+2019-10-19 17:02:12,630 [INFO] ProjectBuilder:1570 - Time for Copy HAL[1] : 405mS.
+2019-10-19 17:02:12,677 [INFO] ProjectBuilder:2138 - Project Generator version: 3.4.0
+2019-10-19 17:02:14,126 [INFO] ConfigFileManager:879 - The Die is : DIE421
+2019-10-19 17:02:14,135 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M4
+2019-10-19 17:02:14,511 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="128"
+2019-10-19 17:02:14,512 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="512"
+2019-10-19 17:02:15,138 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-10-19 17:02:15,138 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============generate
+2019-10-19 17:02:20,299 [INFO] ProjectBuilder:2232 - Time for Generating toolchain IDE Files: 7622mS.
+2019-10-19 17:02:20,303 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 1mS.
+2019-10-19 17:02:20,307 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-10-19 17:02:44,759 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 613027288 Bytes (973078528)
+2019-10-19 17:02:44,764 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:02:44,765 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:02:44,766 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:02:44,767 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 17:02:44,767 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isRootSelectionSupported
+2019-10-19 17:02:44,768 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============isUnderRootDefaultMode
+2019-10-19 17:02:45,057 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: FREERTOS
+2019-10-19 17:02:45,057 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: SYS
+2019-10-19 17:02:45,058 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: RTC
+2019-10-19 17:02:45,058 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: NVIC
+2019-10-19 17:02:45,058 [INFO] BlockDiagram:1862 - set Specific Code input for plugin: USART
+2019-10-19 17:02:45,059 [INFO] CodeGenerator:583 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.3.0.201907110903//db/
+2019-10-19 17:02:45,409 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/license.tmp_save
+2019-10-19 17:02:45,529 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/license.tmp
+2019-10-19 17:02:45,623 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/gpio.tmp_save
+2019-10-19 17:02:45,736 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/gpio.tmp
+2019-10-19 17:02:46,192 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-19 17:02:46,206 [INFO] Middleware:1071 - No code input for Bsp Dependency
+2019-10-19 17:02:46,214 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_inc.tmp_save
+2019-10-19 17:02:46,322 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_inc.tmp
+2019-10-19 17:02:46,331 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_vars.tmp_save
+2019-10-19 17:02:46,452 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_vars.tmp
+2019-10-19 17:02:46,459 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_pfp.tmp_save
+2019-10-19 17:02:46,569 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_pfp.tmp
+2019-10-19 17:02:46,576 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_HalInit.tmp_save
+2019-10-19 17:02:46,691 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_HalInit.tmp
+2019-10-19 17:02:46,697 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_start.tmp_save
+2019-10-19 17:02:46,785 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_start.tmp
+2019-10-19 17:02:46,791 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_threads.tmp_save
+2019-10-19 17:02:46,921 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_threads.tmp
+2019-10-19 17:02:46,935 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_user_threads.tmp_save
+2019-10-19 17:02:47,057 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/rtos_user_threads.tmp
+2019-10-19 17:02:47,067 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/FreeRTOSConfig.h_save
+2019-10-19 17:02:47,252 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/FreeRTOSConfig.h
+2019-10-19 17:02:47,262 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/freertos.c_save
+2019-10-19 17:02:47,458 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/freertos.c
+2019-10-19 17:02:47,460 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-19 17:02:47,462 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for RTC
+2019-10-19 17:02:47,463 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-19 17:02:47,465 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-19 17:02:47,465 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SYS
+2019-10-19 17:02:47,466 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-19 17:02:47,468 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2019-10-19 17:02:47,469 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for USART
+2019-10-19 17:02:47,469 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-19 17:02:47,471 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2019-10-19 17:02:47,471 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2019-10-19 17:02:47,484 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_it.c_save
+2019-10-19 17:02:47,612 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_it.c
+2019-10-19 17:02:47,620 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_it.h_save
+2019-10-19 17:02:47,773 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_it.h
+2019-10-19 17:02:47,806 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_msp.c_save
+2019-10-19 17:02:48,063 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_msp.c
+2019-10-19 17:02:48,075 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/system.tmp_save
+2019-10-19 17:02:48,177 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/MXTmpFiles/system.tmp
+2019-10-19 17:02:48,184 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_timebase_tim.c_save
+2019-10-19 17:02:48,284 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/stm32f4xx_hal_timebase_tim.c
+2019-10-19 17:02:48,293 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_hal_conf.h_save
+2019-10-19 17:02:48,507 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/stm32f4xx_hal_conf.h
+2019-10-19 17:02:48,530 [WARN] IPConfigManager:2562 - IP not found : gpio
+2019-10-19 17:02:48,531 [WARN] CodeGenerator:2617 - IP not found : gpio
+2019-10-19 17:02:48,542 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/main.h_save
+2019-10-19 17:02:48,696 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Inc/main.h
+2019-10-19 17:02:48,708 [INFO] CodeEngine:190 - oldGeneratedFile, /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/main.c_save
+2019-10-19 17:02:49,064 [INFO] CodeEngine:208 - Generated code: /Users/pasztoradam/Library/Mobile Documents/com~apple~CloudDocs/Diplomaterv/SW/Smart_home_SW/Src/main.c
+2019-10-19 17:02:50,009 [INFO] ProjectBuilder:1570 - Time for Copy HAL[1] : 333mS.
+2019-10-19 17:02:50,013 [INFO] ProjectBuilder:2138 - Project Generator version: 3.4.0
+2019-10-19 17:02:50,437 [INFO] ConfigFileManager:879 - The Die is : DIE421
+2019-10-19 17:02:50,441 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] configName ==Arm Cortex-M4
+2019-10-19 17:02:51,210 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="RAM" access="xrw" start="0x20000000" size="128"
+2019-10-19 17:02:51,211 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] memory ==name="FLASH" access="rx" start="0x8000000" size="512"
+2019-10-19 17:02:51,841 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] namefile= STM32CubeIDE
+2019-10-19 17:02:51,841 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] method name===============update
+2019-10-19 17:02:53,542 [INFO] ProjectBuilder:2232 - Time for Generating toolchain IDE Files: 3529mS.
+2019-10-19 17:02:53,543 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 1mS.
+2019-10-19 17:02:53,550 [INFO] ProjectBuilder:1461 - Time for Copy CMSIS : 0mS.
+2019-10-19 19:05:53,134 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-19 19:06:06,494 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Clock Configuration
+2019-10-19 19:06:08,296 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Tab changed to: Pinout & Configuration
+2019-10-19 19:23:59,091 [INFO] BlockDiagram:1818 - stop enableDisableButtons
+2019-10-21 14:32:40,906 [INFO] Activator:176 - 
+
+
+2019-10-21 14:32:40,920 [INFO] Activator:177 - !SESSION log4j initialized
+2019-10-21 14:33:01,709 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2019-10-21 19:19:05,222 [INFO] Activator:176 - 
+
+
+2019-10-21 19:19:05,233 [INFO] Activator:177 - !SESSION log4j initialized
+2019-10-21 19:19:14,862 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2019-10-22 17:26:37,596 [INFO] Activator:176 - 
+
+
+2019-10-22 17:26:37,606 [INFO] Activator:177 - !SESSION log4j initialized
+2019-10-22 17:26:46,819 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 

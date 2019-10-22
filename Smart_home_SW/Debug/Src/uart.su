@@ -1,0 +1,4 @@
+uart.c:14:6:UART_Init	40	static
+uart.c:52:6:USART3_IRQHandler	8	static
+uart.c:57:6:HAL_UART_RxCpltCallback	16	static
+uart.c:66:6:UARTSendString	24	static
