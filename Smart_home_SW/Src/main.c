@@ -50,6 +50,8 @@ UART_HandleTypeDef huart3;
 osThreadId defaultTaskHandle;
 osThreadId CommunicationTaHandle;
 osThreadId SupverVisiorTasHandle;
+osMessageQId CommandQueueHandle;
+osMessageQId StatusQueueHandle;
 /* USER CODE BEGIN PV */
 
 /* USER CODE END PV */
@@ -118,6 +120,15 @@ int main(void)
   /* USER CODE BEGIN RTOS_TIMERS */
   /* start timers, add new ones, ... */
   /* USER CODE END RTOS_TIMERS */
+
+  /* Create the queue(s) */
+  /* definition and creation of CommandQueue */
+  osMessageQDef(CommandQueue, 20, char*);
+  CommandQueueHandle = osMessageCreate(osMessageQ(CommandQueue), NULL);
+
+  /* definition and creation of StatusQueue */
+  osMessageQDef(StatusQueue, 20, char*);
+  StatusQueueHandle = osMessageCreate(osMessageQ(StatusQueue), NULL);
 
   /* USER CODE BEGIN RTOS_QUEUES */
   /* add queues, ... */
